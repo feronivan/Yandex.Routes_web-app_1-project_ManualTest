@@ -1,6 +1,5 @@
 # Yandex.Routes_web-app_1-project
 Веб-приложение “Яндекс.Маршруты”. 1 проект
-[Ссылка на тестируемое в рамках проекта веб-приложение “Яндекс.Маршруты”](https://qa-routes.praktikum-services.ru/)
 
 1. Проанализированы и декомпозированы требования.
 [Ссылка на требования](https://docs.google.com/document/d/1xED1bxE68lAVSZFHxi7EEpjg6SbT58dVNThPmCK20ls/edit#heading=h.syb5xo544tq8)
