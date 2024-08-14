@@ -1,8 +1,7 @@
 # Yandex.Routes_web-app_1-project_ManualTest
 Веб-приложение “Яндекс.Маршруты”. 1 проект
 
-1. Проанализированы и декомпозированы требования.
-[Ссылка на требования](https://docs.google.com/document/d/1xED1bxE68lAVSZFHxi7EEpjg6SbT58dVNThPmCK20ls/edit#heading=h.syb5xo544tq8)
+1. Проанализированы и декомпозированы [требования](https://docs.google.com/document/d/1xED1bxE68lAVSZFHxi7EEpjg6SbT58dVNThPmCK20ls/edit#heading=h.syb5xo544tq8).
 
 2. Проведен тест-анализ и составлена диаграмма связей mindmap.
 [VIvanova, yandex routes, mindmap](https://drive.google.com/file/d/1BZkU-uNPmq_S7NK319kuTUSfBtgQD_Ql/view?usp=sharing)
