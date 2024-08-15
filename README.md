@@ -6,7 +6,8 @@
 В этом сервисе доступны несколько режимов: «Оптимальный», «Быстрый», «Свой».
 В режиме «Свой» панель видов транспорта активна, можно выбрать тип транспорта. Система построит маршрут.
 Если выбрать режим «Оптимальный» или «Быстрый», система автоматически определит вид транспорта и построит маршрут. Панель видов транспорта станет неактивна.
-![Интерфейс приложения](https://drive.google.com/file/d/10SbCHQXVOPtY8rJ_AMeIAzlJ8T__7cnK/view?usp=sharing)
+Интерфейс приложения:
+![Yandex Routes_web-app_project-interface-fast](https://github.com/user-attachments/assets/c9748eb3-e1bc-4147-9cee-57cebee28df5)
 
 1. Проанализированы и декомпозированы [требования](https://docs.google.com/document/d/1xED1bxE68lAVSZFHxi7EEpjg6SbT58dVNThPmCK20ls/edit#heading=h.syb5xo544tq8).
 
