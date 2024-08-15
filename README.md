@@ -21,6 +21,6 @@
 
 ## Инструменты:
 <p align="left"> 
-  <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/240/1015/png-transparent-g-suite-google-docs-google-angle-rectangle-logo.png" width="36" height="36" alt="Google Sheets" /></a>
+  <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4fee6efd-dd5a-4c90-95f6-6aafc54ed88d" width="36" height="36" alt="Google Sheets" /></a>
   <a href="https://www.drawio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/25e7af86-e713-4d4c-885e-6c4ad1d8b76d" width="36" height="36" alt="Draw.io" /></a>
 </p>
